@@ -110,3 +110,6 @@
 2025-04-25 09:10:00 | WARN | repo=a4m36jee-2014-infinispan-seminar | action=commit
 2025-09-02 18:17:00 | DEBUG | repo=a4m36jee-2014-infinispan-seminar | action=commit
 2025-01-19 07:45:00 | DEBUG | repo=a4m36jee-2014-infinispan-seminar | action=commit
+2025-02-18 18:59:00 | INFO | repo=a4m36jee-2014-infinispan-seminar | action=pull
+2025-11-01 15:53:00 | DEBUG | repo=a4m36jee-2014-infinispan-seminar | action=edit | files=1
+2025-12-20 14:05:00 | INFO | repo=a4m36jee-2014-infinispan-seminar | action=commit
